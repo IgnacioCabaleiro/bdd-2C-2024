@@ -1,0 +1,12 @@
+express==4.21.1
+mysql2==3.11.4
+@elastic/elasticsearch==8.16.0
+cors==2.8.5
+dotenv==16.4.5
+nodemon==3.1.7
+react==18.2.0
+react-dom==18.2.0
+react-router-dom==6.x
+tailwindcss==3.x
+@headlessui/react==1.x
+axios==1.x
