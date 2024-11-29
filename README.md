@@ -59,13 +59,13 @@ npm install
 
 2. Iniciar backend
 ```bash
-cd backend
+cd server
 npm run dev
 ```
 
 3. Iniciar frontend
 ```bash
-cd frontend
+cd cli
 npm start
 ```
 
